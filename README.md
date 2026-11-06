@@ -1,7 +1,7 @@
 # ATM-AND-BANKING-SYSTEM
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225240025
+# Name: BHAVANI A
+# Date: 06-11-2026
 
 
 # AIM:
@@ -49,7 +49,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
-
+![alt text](<ATM and Banking System.png>)
 
 
 
@@ -69,6 +69,8 @@ Visually express any specific needs of a system and disseminate that information
 Create detailed charts that…
 
 
+![alt text](<ATM and Banking System classDiagram.png>)
+
 
 # COMMUNICTION DIAGRAM:
 
@@ -77,6 +79,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+![alt text](<ATM and Banking System Communication diagram.png>)
 
 
 # PACKAGE DIAGRAM:
@@ -88,8 +91,7 @@ organization of the layered architecture within any UML classifier, such as a so
 A well-designed package diagram provides numerous benefits to those looking to create a visualization of their UML system or project.
 
 
-
-
+![alt text](<ATM and Banking System packageDiagram.png>)
 
 
 
@@ -107,7 +109,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
-
+![alt text](<ATM and Banking Sytstem activittyDiagram.png>)
 
 
 # SEQUENCE DIAGRAM
@@ -128,7 +130,7 @@ Model the logic of a sophisticated procedure, function, or operation. See how ob
 Plan and understand the detailed functionality of an existing or future scenario.
 
 
-
+![alt text](<ATM and Banking System seqdiagram.png>)
 
 
 
